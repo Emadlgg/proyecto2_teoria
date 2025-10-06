@@ -319,7 +319,7 @@ Permiten reconstruir el parse tree almacenando:
 
 ## 👨‍💻 Autores
 
-**Osman Emanuel de León García**
+**Osman Emanuel de León García** / 
 **Ihan Gilberto Alexander Marroquín Sequén**
 
 **Proyecto de Teoría de la Computación 2025**
