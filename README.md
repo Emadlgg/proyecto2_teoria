@@ -44,7 +44,7 @@ Este proyecto implementa un **parser completo** para gramáticas libres de conte
 
 1. **Clonar o descargar** el proyecto:
 ```bash
-git clone https://github.com/tu-usuario/cyk-parser.git
+git clone https://github.com/Emadlgg/proyecto2_teoria.git
 cd proyecto2_teoria
 ```
 
